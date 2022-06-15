@@ -1,0 +1,5 @@
+coalesce("a", "b")
+
+coalesce("10", "-1")
+
+coalesce("johnny", "get", "level",)

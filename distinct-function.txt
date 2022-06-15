@@ -1,0 +1,5 @@
+distinct(["a", "b", "a", "c", "d", "b"])
+
+distinct(["elite", "prof", "is", "is", "too", "good"])
+
+distinct(["elite", "prof", "is", "is", "too", "good", "good"])

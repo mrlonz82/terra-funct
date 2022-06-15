@@ -1,0 +1,3 @@
+substr("jesus is here", 1, 4)
+
+substr("elitedevops is here", 2, 6)
