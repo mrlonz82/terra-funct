@@ -1,1 +1,1 @@
-format("Jesus, %s!", ")
+format("Jesus, %s!", "is lord ")
